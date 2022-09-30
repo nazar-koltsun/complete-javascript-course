@@ -1,4 +1,12 @@
-let js = 'amazing';
-if (js === 'amazing') alert('JavaScript is FUN!');
+let country = 'Ukraine';
+let continent = 'Europe';
+let population = 39700000;
 
-console.log(40 + 8 + 23 - 10);
+
+let isIsland = false;
+let language;
+
+console.log('isIsland', typeof isIsland);
+console.log('population', typeof population);
+console.log('country', typeof country);
+console.log('language', typeof language);
